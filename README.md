@@ -1,0 +1,2 @@
+# Temperature-display-on-a-webseve
+As part of Software &amp; Hardware classes, we tried to create a webserver in which we could be able to display the temperature with the help of an adruino uno, a ESP8266 and a mini set up on breadboard. Unfortunattly we have met some troubles with the transmission of data from the arduino to the ESP. In this github we will show you what we did and the problems we have met. This project is still ingoing so if anyone have an idea to improve the tuto your welcom
