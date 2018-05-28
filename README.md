@@ -5,4 +5,4 @@ This code uses a RX-TX connetion to transfer the information from the Arduino UN
 ## Code functionals :
 This file contains the separate code for the webserver and the temperature measurement. You will find videos showing the result on computer for each code 
 ## Code softserial :
-Because we had problems with the RX-TX connetion we tried a softserial connetion. But we encounter the same problem. It seems that the transmission of data is done through the TX of the arduino UNO and not the pin we considered for the serial. You will find pictures of the data tram seen on oscilloscpe.
+Because we had problems with the RX-TX connection we tried a softserial connection. But we encounter the same problem. It seems that the transmission of data is done through the TX of the arduino UNO and not the pin we considered for the serial. You will find pictures of the data tram seen on oscilloscpe.
