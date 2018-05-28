@@ -5,6 +5,6 @@ For this project you will find  :
 ## Ping pong code's file : 
 This code uses a RX-TX connection to transfer the information from the Arduino UNO to the ESP8266. Unfortunately, the transmission between the two chips doesn't work. We do not know how to solve the problem. If someone has an idea you are welcome.
 ##  Functional Code:
-This file contains the separates codes for the webserver and the temperature measurement. You will find videos showing the result on computer for each code.
+This file contains the separated codes for the webserver and the temperature measurement. You will find videos showing the result on computer for each code.
 ##  Softserial Code :
-Because we had problems with the RX-TX connection, we tried a sorftware serial connection. But we encounter the same problem. It seems that : the data transmission is done through the TX of the Arduino UNO and not the pin we considered for the serial. You will find pictures of data frame seen on oscilloscope.
+Because we had problems with the RX-TX connection, we tried a Software Serial connection. But we encounter the same problem. It seems that : the data transmission is done through the TX of the Arduino UNO and not the pin we considered for the serial. You will find pictures of data frame seen on oscilloscope.
