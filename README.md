@@ -22,7 +22,7 @@ You can contact us at :
 
 ## Useful sources :
 -[Github](https://projetsdiy.fr/esp8266-serveur-web-interface-graphique-html/) : French tuto for the webserver
- -[Github](https://www.carnetdumaker.net/articles/mesurer-une-temperature-avec-un-capteur-lm35-et-une-carte-arduino-genuino/ ) : French tuto for the temperature measurement and display 
+-[Github](https://www.carnetdumaker.net/articles/mesurer-une-temperature-avec-un-capteur-lm35-et-une-carte-arduino-genuino/ ) : French tuto for the temperature measurement and display 
 -[Github](https://forum.arduino.cc/index.php?topic=354933.0) : French forum about the utility and the performance of the Software serial on ESP with Arduino IDE 
 
 ## Source : 
