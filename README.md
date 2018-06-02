@@ -17,8 +17,8 @@ The time invested was quite substantial. We spent about 24 hours working on : th
 
 
 You can contact us at :
--[Github](Jostein.niyonzima@student.umons.ac.be)
--[Github](Luca.giambarresi@student.umons.ac.be)
+-Jostein.niyonzima@student.umons.ac.be
+-Luca.giambarresi@student.umons.ac.be
 
 ## Useful sources :
 -[Webserver](https://projetsdiy.fr/esp8266-serveur-web-interface-graphique-html/) : French tuto for the webserver
