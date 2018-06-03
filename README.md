@@ -22,8 +22,10 @@ You can contact us at :
 
 ## Useful sources :
 -[Webserver](https://projetsdiy.fr/esp8266-serveur-web-interface-graphique-html/) : French tuto for the webserver
+
 -[Temperature](https://www.carnetdumaker.net/articles/mesurer-une-temperature-avec-un-capteur-lm35-et-une-carte-arduino-genuino/ ) : French tuto for the temperature measurement and display 
+
 -[Sorftware Serial](https://forum.arduino.cc/index.php?topic=354933.0) : French forum about the utility and the performance of the Software serial on ESP with Arduino IDE 
 
-## Source : 
+## Github source : 
 - [Github](https://github.com/j-niyosz/Temperature-display-on-a-webserver)
