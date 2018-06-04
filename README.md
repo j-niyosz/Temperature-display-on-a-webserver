@@ -17,7 +17,9 @@ The time invested was quite substantial. We spent about 24 hours working on : th
 
 
 You can contact us at :
+
 -Jostein.niyonzima@student.umons.ac.be
+
 -Luca.giambarresi@student.umons.ac.be
 
 ## Useful sources :
