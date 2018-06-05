@@ -3,7 +3,7 @@ As part of the course of Hardware & Software , we tried to create a webserver on
 
 For this project you will find  :
 ## Ping pong code's file : 
-This code uses a RX-TX connection to transfer the information from the Arduino UNO to the ESP8266. For the set up, we make a common ground by connecting the 2 ground together.Then we connect the RX of the ESP to the TX of the Arduino and the TX of the Arduino to the RX of the ESP. Unfortunately, the transmission between the two chips doesn't work. We do not know how to solve the problem. If someone has an idea you are welcome.
+This code uses a RX-TX connection to transfer the information from the Arduino UNO to the ESP8266. For the set up, we make a common ground by connecting the 2 ground together.Then we connect the RX of the ESP to the TX of the Arduino and the RX of the Arduino to the TX of the ESP. Unfortunately, the transmission between the two chips doesn't work. We do not know how to solve the problem. If someone has an idea you are welcome.
 ##  Functional Code:
 This file contains the separated codes for the webserver and the temperature measurement. You will find videos showing the result on computer for each code.
 ##  Software Serial Code :
@@ -23,11 +23,11 @@ You can contact us at :
 -Luca.giambarresi@student.umons.ac.be
 
 ## Useful sources :
--[Webserver](https://projetsdiy.fr/esp8266-serveur-web-interface-graphique-html/) : French tuto for the webserver
+-[Webserver](https://projetsdiy.fr/esp8266-serveur-web-interface-graphique-html/) : French tutorial for the webserver
 
--[Temperature](https://www.carnetdumaker.net/articles/mesurer-une-temperature-avec-un-capteur-lm35-et-une-carte-arduino-genuino/ ) : French tuto for the temperature measurement and display 
+-[Temperature](https://www.carnetdumaker.net/articles/mesurer-une-temperature-avec-un-capteur-lm35-et-une-carte-arduino-genuino/ ) : French tutorial for the temperature measurement and display 
 
--[Sorftware Serial](https://forum.arduino.cc/index.php?topic=354933.0) : French forum about the utility and the performance of the Software serial on ESP with Arduino IDE 
+-[Software Serial](https://forum.arduino.cc/index.php?topic=354933.0) : French forum about the utility and the performance of the Software serial on ESP with Arduino IDE 
 
 ## Github source : 
 - [Github](https://github.com/j-niyosz/Temperature-display-on-a-webserver)
