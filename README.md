@@ -3,7 +3,7 @@ As part of the course of Hardware & Software , we tried to create a webserver on
 
 For this project you will find  :
 ## Ping pong code's file : 
-This code uses a RX-TX connection to transfer the information from the Arduino UNO to the ESP8266. For the set up, we make a common ground by connecting the 2 ground together.Then we connect the RX of the ESP to the TX of the Arduino and the RX of the Arduino to the TX of the ESP. Unfortunately, the transmission between the two chips doesn't work. We do not know how to solve the problem. If someone has an idea you are welcome.
+This code uses a RX-TX connection to transfer the information from the Arduino UNO to the ESP8266. For the set up, we make a common ground by connecting the 2 grounds together.Then we connect the RX of the ESP to the TX of the Arduino and the RX of the Arduino to the TX of the ESP. Unfortunately, the transmission between the two chips doesn't work. We do not know how to solve the problem. If someone has an idea you are welcome.
 ##  Functional Code:
 This file contains the separated codes for the webserver and the temperature measurement. You will find videos showing the result on computer for each code.
 ##  Software Serial Code :
