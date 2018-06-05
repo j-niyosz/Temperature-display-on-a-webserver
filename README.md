@@ -13,7 +13,7 @@ This project has been realized by the group 8 composed by Jostein Niyonzima and 
 
 The difficulties were essentially based on the way of making both tutorials work together. The communication between the ESP8266 and the Arduino Uno was (and is still) the main point of our problems. Both tutorials were good enough as « starting points » and we managed well to make them work separately (according to some small modifications). 
 The added value would have been to combine the two tutorials. And if this objective would have been reached easily and in a short time, we would have liked to add a « graphical gauge » on the webpage showing the evolution of the temperature more visually (which would have made the project funny).
-The time invested was quite substantial. We spent about 24 hours working on : the existing tutorials, the project itself and the « Ping-Pong test » developped just after the bad results concerning the project which normally worked with SoftwareSerial commands.
+The time invested was quite substantial. We spent about 24 hours working on : the existing tutorials, the project itself and the « Ping-Pong test » developped just after the bad results concerning the project which normally would have worked with SoftwareSerial commands.
 
 
 You can contact us at :
